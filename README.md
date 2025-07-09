@@ -1,1 +1,1 @@
-landingpage-vivek.netlify.app
+https://landingpage-vivek.netlify.app/
